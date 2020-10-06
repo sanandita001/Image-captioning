@@ -1,5 +1,5 @@
 # Image-captioning
------------------------------------------
+
 A Machine Learning project.
 Predicting captions of images in tensorflow and keras. 
 
